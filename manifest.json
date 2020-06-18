@@ -1,10 +1,10 @@
 {
-  "name": "Recipe Food", //nama app
+  "name": "Recipe Food",
   "short_name": "RecipeFood", 
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#FFE9D2",
-  "theme_color": "#FFE1C4", //warna bg
+  "theme_color": "#FFE1C4", 
   "orientation": "portrait-primary",
   "icons": [
     {
