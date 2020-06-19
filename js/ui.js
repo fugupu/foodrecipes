@@ -16,7 +16,7 @@ const renderRecipe = (data, id) => {
   <a href="" class="custom-card">
   <div class="card-panel recipe white row" data-id="${id}">
 
-  <img src="/img/dish.png" alt="recipe thumb">
+//   <img src="/img/dish.png" alt="recipe thumb">
 
   <div class="recipe-details">
   
